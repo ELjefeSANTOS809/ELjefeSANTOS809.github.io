@@ -1,0 +1,23 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the assignment.
+
+    Good luck, and have fun!
+*/
+#pictures{
+    margin: 12px;
+    border: 20px;
+    border-style: double;
+    border-color: orangered;
+}
+
+#text{
+    margin: 25px;
+    border: 10px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    border-style: solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
