@@ -1,0 +1,34 @@
+#column-d1{
+    width: 50%;
+}
+
+
+#column-d2{
+    width: 50%;
+    margin-left: auto;
+}
+
+
+#column-d3{
+    width: 50%;
+    margin: auto;
+}
+
+
+#container-d4 {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.container-2{
+    width: 50%;
+}
+#container-d5-1{
+    margin-left: auto;
+    margin-right: auto;
+}
+#container-d5-2{
+    margin-left: auto;
+}
