@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif; 
+}
+
+.light-container {
+    background-color: lightblue;
+    padding: 36px 0px;
+    
+}
+
+.dark-container {
+    background-color: yellow;
+    color: black;
+    padding: 36px 0px;
+}
+
+.side-by-side {
+    display: inline-block;
+    width: 49%;
+}
+
+.side-by-side img {
+    padding-left: 36px;
+    width: 100%;
+}
