@@ -21,9 +21,32 @@ body{
     margin: 12px;
     display: inline-block;
     min-width: 200px;
+
 }
 
 #price{
     padding: 15px;
     text-align: center;
+    margin: 12px;
+
+}
+
+#image-column{
+    text-align: center;
+}
+
+#buyer-information{
+    border: 5px;
+    border-color: black;
+    border-style: solid;
+    margin: 10px;
+    text-align: justify;
+    padding: 12px;
+    text-decoration: underline;
+    color: blue;
+}
+
+#product-information{
+    text-align: center;
+    font-weight: bold;
 }
