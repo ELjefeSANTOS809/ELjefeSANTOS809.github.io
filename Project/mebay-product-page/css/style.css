@@ -44,6 +44,7 @@ body{
     padding: 12px;
     text-decoration: underline;
     color: blue;
+    align-items: flex-start;
 }
 
 #product-information{
