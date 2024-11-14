@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+}
+
+.card-style-1 {
+    border: 10px ;
+    width: 350px;
+    padding: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: green;
+}
