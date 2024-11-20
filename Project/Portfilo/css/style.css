@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#hero-layout-1{
+    background-image: url("../images/Bacc.jpg");
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    
+}
