@@ -79,4 +79,36 @@ body{
     text-align: center;
 }
 
+.App {
+    text-align: center;
+}
 
+.entree {
+    text-align: center;
+}
+
+.sides {
+    text-align: center;
+}
+
+.sweets {
+    text-align: center;
+}
+
+#footer {
+    background: linear-gradient(to bottom, blue, #230148b4);
+    color: black;
+    padding: 12px;
+}
+
+#footer a {
+    text-decoration: none;
+    color: white;
+}
+
+#footer-navbar {
+    width: 800px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+}
